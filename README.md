@@ -1,6 +1,6 @@
 # ITCS Alumni Employment Outcomes — 2026 Retrospective
 
-Analysis of employment outcomes for alumni of the [Industry Team Case Study (ITCS)](https://www.tdccbr.ca/itcs) program at the University of Toronto, covering cohorts 2021–2025, with a 5-year comparison to the previous period (2016–2020, Sealey et al. 2021).
+Analysis of employment outcomes for alumni of the [Industry Team Case Study (ITCS)]([https://www.tdccbr.ca/itcs](https://lscds.org/home/industry-team-case-study)) program at the University of Toronto, covering cohorts 2021–2025, with a 5-year comparison to the previous period (2016–2020, Sealey et al. 2021).
 
 ## Repository contents
 
