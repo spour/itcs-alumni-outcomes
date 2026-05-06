@@ -1,0 +1,5 @@
+*.pdf
+Where are Trainees Now_*.csv
+__pycache__/
+*.pyc
+.DS_Store
